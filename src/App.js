@@ -38,6 +38,9 @@ class App extends React.Component {
             <Form {...ComponentsCommonProps} />
           </div>
         )}
+   <div className="made">
+          Made with <span className="heart">♥</span> in React
+        </div>
       </div>
     );
   };
