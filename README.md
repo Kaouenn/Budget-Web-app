@@ -35,7 +35,7 @@ https://budget-web-app.herokuapp.com/
 
 ## Features
 
-- A Single Form Component appears when run the web app without expenses.
+- A Single Form Component appears when you run the web app without expenses.
 
 - Firstly : You have to write the name of the User 👨
 - Secondly : Inform the expense you want to add ⌨︎
