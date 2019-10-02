@@ -31,7 +31,7 @@ Use `npm start`to launch the website.
 
 You can also visit the demo website :
 
-https://budget-web-app.herokuapp.com/
+https://budget-web-app.francoislaval.now.sh/
 
 ## Features
 
