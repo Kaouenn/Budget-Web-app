@@ -2,7 +2,7 @@
 
 # Budget Web App
 
-> A simple Budget Web App for one or many users.
+> A simple (Fullstack project) Budget Web App for one or many users.
 
 ## Table of contents
 
@@ -31,7 +31,8 @@ Use `npm start`to launch the website.
 
 You can also visit the demo website :
 
-https://budget-web-app.francoislaval.now.sh/
+Font-End Link : tps://budget-web-app.francoislaval.now.sh/
+Back-End Link : https://budget-web-app-back.herokuapp.com/
 
 ## Features
 
