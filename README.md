@@ -31,7 +31,7 @@ Use `npm start`to launch the website.
 
 You can also visit the demo website :
 
-Font-End Link : tps://budget-web-app.francoislaval.now.sh/
+Font-End Link : https://budget-web-app.francoislaval.now.sh/
 
 Back-End Link : https://budget-web-app-back.herokuapp.com/
 
