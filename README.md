@@ -2,7 +2,7 @@
 
 # Budget Web App
 
-> A simple (Fullstack project) Budget Web App for one or many users.
+> A simple Budget Web App for one or many users.
 
 ## Table of contents
 
